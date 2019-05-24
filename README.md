@@ -22,15 +22,3 @@ O app permitirá ao usuário inserir o nome de um repositório existente que ser
 
 Repositório: https://api.github.com/repos/react-community/react-navigation
 Issues: https://api.github.com/repos/react-community/react-navigation/issues
-
-## Entrega
-
-Esse desafio **não precisa ser entregue** e não receberá correção, mas você pode ver o resultado do código do desafio feito por mim aqui: https://github.com/Rocketseat/bootcamp-react-native-desafio-02
-
-*PS.: Tente fazer o desafio sem olhar o código antes :)*
-
-*PS2.: Após concluir o desafio, adicionar esse código ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras :D*
-
-Booooooora dev!!!
-
-“Para quem fica melhor a cada dia, ficar pronto é utopia”!
